@@ -1,0 +1,18 @@
+# Ignore database file
+
+# Ignore Python bytecode files
+*.pyc
+*.pyo
+
+# Ignore virtual environment directories
+venv
+env/
+
+# Ignore Django migration files (if you want them untracked)
+migrations/
+
+# Ignore static files if using external hosting
+staticfiles/
+
+# Ignore .env files or secret keys (optional)
+.env
